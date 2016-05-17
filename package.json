@@ -1,6 +1,6 @@
 {
   "name": "slush-hot-landing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "template for develop static webpages",
   "main": "slushfile.js",
   "keywords": [
