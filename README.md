@@ -26,7 +26,26 @@ gulp
 ##stack
 - gulp
 - pug template
+- sass
 - browser sync
 
+##structure
+
+```
+your-app/
+├── .editorconfig
+├── .nvmrc
+├── gulpfile.js
+├── package.json
+└── app
+    └── assets
+        ├── scripts
+        ├── styles
+              └── main.scss
+        ├── images
+    └── index.pug
+├── tasks #all tasks for gulp
+
+```
 
 Made with 3> by Diel Duarte
