@@ -1,0 +1,38 @@
+{
+  "name": "hot-landing",
+  "version": "1.0.0",
+  "description": "simple starter for hotmart landings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diel Duarte",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "*",
+    "colors": "^1.1.2",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cachebust": "0.0.5",
+    "gulp-concat": "^2.3.4",
+    "gulp-connect": "^2.2.0",
+    "gulp-css-globbing": "~0.1.4",
+    "gulp-cssnano": "*",
+    "gulp-htmlmin": "*",
+    "gulp-if": "^2.0.0",
+    "gulp-imagemin": "^0.6.1",
+    "gulp-jshint": "^1.9.0",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-pug": "*",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-task-listing": "^1.0.1",
+    "gulp-uglify": "^1.0.1",
+    "jshint-stylish": "^1.0.0",
+    "minimist": "*",
+    "node-sass": "3.3.3",
+    "require-dir": "~0.1.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "slush-hot-landing",
+  "version": "0.0.1",
+  "description": "template for develop static webpages",
+  "main": "slushfile.js",
+  "keywords": [
+    "slushgenerator",
+    "hot-landing",
+    "webpages",
+    "static",
+    "landing",
+    "slush"
+  ],
+  "dependencies": {
+    "gulp":    "^3.5.6",
+    "gulp-install": "~0.1.1",
+    "gulp-conflict": "~0.1.1",
+    "underscore.string": "~2.3.3",
+    "gulp-rename": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dielduarte/slush-hot-landing"
+  },
+  "author": "Diel Duarte",
+  "license": "MIT"
+}
