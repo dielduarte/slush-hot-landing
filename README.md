@@ -48,4 +48,4 @@ your-app/
 
 ```
 
-Made with 3> by Diel Duarte
+Made with <3 by Diel Duarte
